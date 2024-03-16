@@ -1,1 +1,1 @@
-# cc1_Blaza
+# CodingChallenge
